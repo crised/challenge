@@ -1,0 +1,23 @@
+/usr/bin/python3.5 /home/crised/PycharmProjects/yougov/httpbin.py
+{
+  "args": {},
+  "data": "",
+  "files": {
+    "file": "name,species,height,appearances\r\nChewbacca,Wookiee,228,5\r\nDarth Vader,Human,202,4\r\nObi-Wan Kenobi,Human,182,6\r\nHan Solo,Human,180,4\r\nLuke Skywalker,Human,172,5\r\nPalpatine,Human,170,5\r\nC-3PO,Droid,167,6\r\nLeia Organa,Human,150,5\r\nR2-D2,Droid,96,7\r\nYoda,Yoda's species,66,5\r\n"
+  },
+  "form": {},
+  "headers": {
+    "Accept": "*/*",
+    "Accept-Encoding": "gzip, deflate",
+    "Content-Length": "418",
+    "Content-Type": "multipart/form-data; boundary=f198cf0e7bbf4d8d9296839e77ed946a",
+    "Host": "httpbin.org",
+    "User-Agent": "python-requests/2.9.1"
+  },
+  "json": null,
+  "origin": "186.67.181.203, 186.67.181.203",
+  "url": "https://httpbin.org/post"
+}
+
+
+Process finished with exit code 0
